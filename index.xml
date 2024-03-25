@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Derecho B</title>
-    <link>http://localhost:1313/index.html</link>
+    <link>https://example.org/index.html</link>
     <description>Recent content on Derecho B</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Mar 2024 15:39:39 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Mar 2024 21:35:37 -0300</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blackboard</title>
-      <link>http://localhost:1313/blackboard/index.html</link>
-      <pubDate>Thu, 21 Mar 2024 15:39:39 -0300</pubDate>
-      <guid>http://localhost:1313/blackboard/index.html</guid>
+      <link>https://example.org/blackboard/index.html</link>
+      <pubDate>Sun, 24 Mar 2024 21:35:37 -0300</pubDate>
+      <guid>https://example.org/blackboard/index.html</guid>
       <description>Blackboard APuntes de los videos colgados en los distintos módulos del Blackboard</description>
     </item>
     <item>
       <title>Clases</title>
-      <link>http://localhost:1313/clases/index.html</link>
+      <link>https://example.org/clases/index.html</link>
       <pubDate>Thu, 21 Mar 2024 15:38:55 -0300</pubDate>
-      <guid>http://localhost:1313/clases/index.html</guid>
+      <guid>https://example.org/clases/index.html</guid>
       <description>Clases APuntes de las clases sincrónicas</description>
     </item>
   </channel>

@@ -1,45 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blackboard/index.html</loc>
-    <lastmod>2024-03-21T15:39:39-03:00</lastmod>
+    <loc>https://example.org/blackboard/index.html</loc>
+    <lastmod>2024-03-24T21:35:37-03:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/clases/index.html</loc>
+    <loc>https://example.org/clases/index.html</loc>
     <lastmod>2024-03-21T15:38:55-03:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/index.html</loc>
+    <loc>https://example.org/index.html</loc>
+    <lastmod>2024-03-24T21:35:37-03:00</lastmod>
+  </url>
+  <url>
+    <loc>https://example.org/blackboard/m%C3%B3dulo4/index.html</loc>
+    <lastmod>2024-03-24T21:35:37-03:00</lastmod>
+  </url>
+  <url>
+    <loc>https://example.org/blackboard/m%C3%B3dulo3/index.html</loc>
     <lastmod>2024-03-21T15:39:39-03:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/blackboard/m%C3%B3dulo3/index.html</loc>
-    <lastmod>2024-03-21T15:39:39-03:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/blackboard/m%C3%B3dulo2/index.html</loc>
+    <loc>https://example.org/blackboard/m%C3%B3dulo2/index.html</loc>
     <lastmod>2024-03-21T15:39:37-03:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/blackboard/m%C3%B3dulo1/index.html</loc>
+    <loc>https://example.org/blackboard/m%C3%B3dulo1/index.html</loc>
     <lastmod>2024-03-21T15:39:35-03:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/clases/clase-3/index.html</loc>
+    <loc>https://example.org/clases/clase-3/index.html</loc>
     <lastmod>2024-03-21T15:38:55-03:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/clases/clase-2/index.html</loc>
+    <loc>https://example.org/clases/clase-2/index.html</loc>
     <lastmod>2024-03-21T15:38:52-03:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/clases/clase-1/index.html</loc>
+    <loc>https://example.org/clases/clase-1/index.html</loc>
     <lastmod>2024-03-21T15:38:50-03:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/categories/index.html</loc>
+    <loc>https://example.org/categories/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/index.html</loc>
+    <loc>https://example.org/tags/index.html</loc>
   </url>
 </urlset>

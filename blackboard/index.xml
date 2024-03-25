@@ -2,17 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blackboard on Derecho B</title>
-    <link>http://localhost:1313/blackboard/index.html</link>
+    <link>https://example.org/blackboard/index.html</link>
     <description>Recent content in Blackboard on Derecho B</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Mar 2024 15:39:39 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/blackboard/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Mar 2024 21:35:37 -0300</lastBuildDate>
+    <atom:link href="https://example.org/blackboard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Módulo4</title>
+      <link>https://example.org/blackboard/m%C3%B3dulo4/index.html</link>
+      <pubDate>Sun, 24 Mar 2024 21:35:37 -0300</pubDate>
+      <guid>https://example.org/blackboard/m%C3%B3dulo4/index.html</guid>
+      <description>Módulo 4 Deber de cumplir con los organismos de la seguridad social (video) El art. 80 de la LCT establece la obligación del empleador de cumplir con los organismmos de la seguridad social, y después debe acreditarlo con la entrega de un certificado al trabajador en determinadas situaciones.
+Certificado de trtabajo o certificado del art. 80 son términos coloquiales.
+Los artículos 49 - 61 de la LCT regulan sobre la forma y prueba del contrato de trabajo.</description>
+    </item>
     <item>
       <title>Módulo 3</title>
-      <link>http://localhost:1313/blackboard/m%C3%B3dulo3/index.html</link>
+      <link>https://example.org/blackboard/m%C3%B3dulo3/index.html</link>
       <pubDate>Thu, 21 Mar 2024 15:39:39 -0300</pubDate>
-      <guid>http://localhost:1313/blackboard/m%C3%B3dulo3/index.html</guid>
+      <guid>https://example.org/blackboard/m%C3%B3dulo3/index.html</guid>
       <description>Módulo 3 Sujetos del contrato de trabajo (video) Los sujetos son trabajador y empleador.
 Son términos genéricos que comprenden especies.
 Trabajador: obrero, empleado, operario, entre otras.
@@ -22,18 +31,18 @@ Los art. 27 a 31 de la ley de contrato de trabajo hablan de situaciones diversas
     </item>
     <item>
       <title>Módulo 2</title>
-      <link>http://localhost:1313/blackboard/m%C3%B3dulo2/index.html</link>
+      <link>https://example.org/blackboard/m%C3%B3dulo2/index.html</link>
       <pubDate>Thu, 21 Mar 2024 15:39:37 -0300</pubDate>
-      <guid>http://localhost:1313/blackboard/m%C3%B3dulo2/index.html</guid>
+      <guid>https://example.org/blackboard/m%C3%B3dulo2/index.html</guid>
       <description>Módulo 2 Principio de trato igual (video) EL principio de trato igual o no discriminación dice algo así como que el empleador no debe hacer distinciones arbitrarias entre trabajadores y debe tratarlos de forma igual.
 Discriminar: el diccionario de la RAE le da dos acepciones:
 Seleccionar excluyendo Dar trato desigual a una persona o colectividad por motivos raciales, religiosos, políticos, de sexo, edad, condición física o mental, ETC Comienza a pensarse en discriminación como idea de protección de minorías.</description>
     </item>
     <item>
       <title>Módulo 1</title>
-      <link>http://localhost:1313/blackboard/m%C3%B3dulo1/index.html</link>
+      <link>https://example.org/blackboard/m%C3%B3dulo1/index.html</link>
       <pubDate>Thu, 21 Mar 2024 15:39:35 -0300</pubDate>
-      <guid>http://localhost:1313/blackboard/m%C3%B3dulo1/index.html</guid>
+      <guid>https://example.org/blackboard/m%C3%B3dulo1/index.html</guid>
       <description>Módulo 1 Nociones básicas del derecho del trabajo y la seguridad social (video) El derecho del trabajo y seguridad social es nuevo si se compara con otras ramas (civil, comercial)
 Los orígenes del derecho civil si bien tienen antecedentes más antiguos parten del derecho romano, luego derecho continental europeo y posteriormente jóvenes estados latinoamericanos. O sea, no menos de 2000 años.
 El derecho comercial moderno se remonta a los siglos previos a la revolución industrial, primeros instrumentos de crédito en Florencia y Venecia, hace 500 años aprox.</description>

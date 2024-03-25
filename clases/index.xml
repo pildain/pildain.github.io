@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Clases on Derecho B</title>
-    <link>http://localhost:1313/clases/index.html</link>
+    <link>https://example.org/clases/index.html</link>
     <description>Recent content in Clases on Derecho B</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 Mar 2024 15:38:55 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/clases/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/clases/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Clase 3</title>
-      <link>http://localhost:1313/clases/clase-3/index.html</link>
+      <link>https://example.org/clases/clase-3/index.html</link>
       <pubDate>Thu, 21 Mar 2024 15:38:55 -0300</pubDate>
-      <guid>http://localhost:1313/clases/clase-3/index.html</guid>
+      <guid>https://example.org/clases/clase-3/index.html</guid>
       <description>Clase 3 Irrenunciabilidad El ART. 12 de la LCT también fue modificado por el decreto 70 / 23.
 El decreto buscó reducir la irrenunciabilidad.
 Mientras que en derecho civil para las partes las cláusulas del contrato son como la ley misma (renunciabilidad) en derecho del trabajo hay irrenunciabilidad, no se puede pactar en contra del orden público. Hay determinadas cosas a las que no se puede renunciar y la ley lo marca.</description>
     </item>
     <item>
       <title>Clase 2</title>
-      <link>http://localhost:1313/clases/clase-2/index.html</link>
+      <link>https://example.org/clases/clase-2/index.html</link>
       <pubDate>Thu, 21 Mar 2024 15:38:52 -0300</pubDate>
-      <guid>http://localhost:1313/clases/clase-2/index.html</guid>
+      <guid>https://example.org/clases/clase-2/index.html</guid>
       <description>CLASE 2 Historia argentina La asamblea del año 13 no abolió la esclavitud, declaró la libertad de vientres.
 Alberdi crea una constitución liberal. Piensa en el precio del trabajo como Adam Smith.
 Empieza a armarse el estado argentino. Hay una falsa democracia.
@@ -31,9 +31,9 @@ EN 1915 se promulga la primera ley laboral importante, la 9688 de accidentes de 
     </item>
     <item>
       <title>Clase 1</title>
-      <link>http://localhost:1313/clases/clase-1/index.html</link>
+      <link>https://example.org/clases/clase-1/index.html</link>
       <pubDate>Thu, 21 Mar 2024 15:38:50 -0300</pubDate>
-      <guid>http://localhost:1313/clases/clase-1/index.html</guid>
+      <guid>https://example.org/clases/clase-1/index.html</guid>
       <description>Clase 1 Derecho individual del trabajo, derecho colectivo, seguridad social.
 DNU en general y DNU 70 / 23 en particular Decreto 70 / 23: inconstitucional
 Ley 26773: limpia la inconstitucionalidad de la ley de riesgos del trabajo.
