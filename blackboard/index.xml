@@ -6,8 +6,17 @@
     <description>Recent content in Blackboard on Derecho B</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Mar 2024 21:35:37 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 00:05:03 -0300</lastBuildDate>
     <atom:link href="https://example.org/blackboard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Módulo5</title>
+      <link>https://example.org/blackboard/m%C3%B3dulo5/index.html</link>
+      <pubDate>Mon, 01 Apr 2024 00:05:03 -0300</pubDate>
+      <guid>https://example.org/blackboard/m%C3%B3dulo5/index.html</guid>
+      <description>Módulo 5 Peores formas de trabajo infantil (video) En 1998 la OIT adoptó una declaración de principios y derechos fundamentales en el trabajo. Esta declaración se generó en el marco de un profundo retroceso en todo el mundo de las protecciones emergentes del derecho del trabajo.
+Esta década no sólo afectó a Argentina. La OIT intentó remontar la situación mediante esta declaración, por cierto, muy criticada.
+Sin decirlo, esta declaración reconoció el fracaso de la OIT en hacer valer los derechos de las personas que trabajan, limitándose a cuatro puntos esenciales: igualdad en el empleo, libertad sindical, abolición del trabajo forzoso y abolición del trabajo infantil.</description>
+    </item>
     <item>
       <title>Módulo4</title>
       <link>https://example.org/blackboard/m%C3%B3dulo4/index.html</link>
